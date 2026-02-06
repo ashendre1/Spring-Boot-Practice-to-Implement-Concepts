@@ -1,0 +1,9 @@
+C:\Projects\Spring-Boot-practice\product-service\src\main\java\com\practice\product\config\OpenApiConfig.java
+C:\Projects\Spring-Boot-practice\product-service\src\main\java\com\practice\product\controller\ProductController.java
+C:\Projects\Spring-Boot-practice\product-service\src\main\java\com\practice\product\dto\ProductRequest.java
+C:\Projects\Spring-Boot-practice\product-service\src\main\java\com\practice\product\dto\ProductResponse.java
+C:\Projects\Spring-Boot-practice\product-service\src\main\java\com\practice\product\exception\GlobalExceptionHandler.java
+C:\Projects\Spring-Boot-practice\product-service\src\main\java\com\practice\product\model\Product.java
+C:\Projects\Spring-Boot-practice\product-service\src\main\java\com\practice\product\ProductServiceApplication.java
+C:\Projects\Spring-Boot-practice\product-service\src\main\java\com\practice\product\repository\ProductRepository.java
+C:\Projects\Spring-Boot-practice\product-service\src\main\java\com\practice\product\service\ProductService.java

@@ -1,0 +1,12 @@
+com\practice\product\dto\ProductRequest.class
+com\practice\product\controller\ProductController.class
+com\practice\product\model\Product.class
+com\practice\product\service\ProductService.class
+com\practice\product\dto\ProductResponse$ProductResponseBuilder.class
+com\practice\product\config\OpenApiConfig.class
+com\practice\product\ProductServiceApplication.class
+com\practice\product\dto\ProductResponse.class
+com\practice\product\exception\GlobalExceptionHandler.class
+com\practice\product\dto\ProductRequest$ProductRequestBuilder.class
+com\practice\product\model\Product$ProductBuilder.class
+com\practice\product\repository\ProductRepository.class
